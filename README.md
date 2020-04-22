@@ -1,24 +1,11 @@
-# learn-vue
+# Todo Vue App  
 
-## Project setup
-```
-npm install
-```
+A simple todo app with localstorage made with VueJS :sparkles:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+To contribute, 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* Fork/Clone the repository  
+* Install dependencies - `npm install`
+* Start the dev server - `npm run serve`
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##### Enjoy!
